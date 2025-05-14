@@ -1,4 +1,5 @@
-project 1
+odin/
+# project 1
 odin-recipes/
 │
 ├── index.html
@@ -7,7 +8,7 @@ odin-recipes/
     ├── pancakes.html
     └── salad.html
 
-project 2
+# project 2
 landing-page/
 │
 ├── index.html
